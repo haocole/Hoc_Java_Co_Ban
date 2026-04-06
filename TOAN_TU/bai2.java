@@ -10,6 +10,6 @@ public class bai2 {
         int tong = so_1 + so_2;
         // 3. Hiển thị kết quả ra màn hình Terminal
         
-        System.out.println("Tong");
+        System.out.println(tong);
     }
 }
