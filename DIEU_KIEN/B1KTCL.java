@@ -9,10 +9,10 @@ public class B1KTCL {
         int so = nhap.nextInt();
 
         if (so % 2 == 0){
-            System.out.print(so +  "La so chan");
+            System.out.print(so +  " La so chan ");
         }
         else {
-            System.out.print(so + "La so le");
+            System.out.print(so + " La so le ");
         }
 
 nhap.close();

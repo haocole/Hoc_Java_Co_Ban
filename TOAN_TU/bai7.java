@@ -18,6 +18,7 @@ public class bai7 {
         // (nextInt, nextFloat, nextByte...) mà ngay sau đó lại nhập Chữ (nextLine),
         //  hãy luôn chèn một dòng nhap.nextLine(); ở giữa để "hút bụi" cái dấu Enter
         nhap.nextLine();
+        
 
         System.out.print("Que quan: ");
         String que = nhap.nextLine(); 
